@@ -1,0 +1,7 @@
+Backend/.env
+.vscode*
+Backend/Backend_mqtt/.env
+Gerenciador/.env
+IoT_Receiver/.env
+Script Geração de Dados/.env
+Script/.env
